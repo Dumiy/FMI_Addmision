@@ -5,4 +5,4 @@
 *This is only for pure curiosity and I think it would not reflect the future results*
 
 
-The main focus would be to vizualize and analyze data from the addmision exam from the past and maybe forecast with a predictive model the future ###WO
+The main focus would be to vizualize and analyze data from the addmision exam from the past and maybe forecast with a predictive model the future
